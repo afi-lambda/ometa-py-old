@@ -1,0 +1,10 @@
+#
+# .travis.yml - configuration file for the travis continuous integration service
+#
+# see http://about.travis-ci.org/docs/user/languages/python for more hints
+#
+
+language: python
+python:
+  - "2.7"
+script: nosetests
