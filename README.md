@@ -1,5 +1,5 @@
-ometa-py
-========
+ometa-py-old
+============
 
 Python implementation of OMeta
 
