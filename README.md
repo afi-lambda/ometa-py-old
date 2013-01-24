@@ -1,4 +1,4 @@
-ometa-py-old
+ometa-py-old [![Build Status](https://api.travis-ci.org/afi-lambda/ometa-py-old.png)](https://api.travis-ci.org/afi-lambda/ometa-py-old)
 ============
 
 Python implementation of OMeta
